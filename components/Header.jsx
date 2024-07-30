@@ -21,9 +21,8 @@ const Header = () => (
         <div className="item">
           <img src="image/img1.jpg" />
           <div className="content">
-            <div className="author">LUNDEV</div>
-            <div className="title">DESIGN SLIDER</div>
-            <div className="topic">ANIMAL</div>
+            <div className="title">MUSIC FESTIVAL</div>
+            <div className="topic">EVOLVING</div>
             <div className="des">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut
               sequi, rem magnam nesciunt minima placeat, itaque eum neque
@@ -41,9 +40,8 @@ const Header = () => (
         <div className="item">
           <img src="image/img2.jpg" />
           <div className="content">
-            <div className="author">LUNDEV</div>
-            <div className="title">DESIGN SLIDER</div>
-            <div className="topic">ANIMAL</div>
+            <div className="title">MUSIC FESTIVAL</div>
+            <div className="topic">EVOLVING</div>
             <div className="des">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut
               sequi, rem magnam nesciunt minima placeat, itaque eum neque
@@ -61,9 +59,8 @@ const Header = () => (
         <div className="item">
           <img src="image/img3.jpg" />
           <div className="content">
-            <div className="author">LUNDEV</div>
-            <div className="title">DESIGN SLIDER</div>
-            <div className="topic">ANIMAL</div>
+            <div className="title">MUSIC FESTIVAL</div>
+            <div className="topic">EVOLVING</div>
             <div className="des">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut
               sequi, rem magnam nesciunt minima placeat, itaque eum neque
@@ -81,9 +78,8 @@ const Header = () => (
         <div className="item">
           <img src="image/img4.jpg" />
           <div className="content">
-            <div className="author">LUNDEV</div>
-            <div className="title">DESIGN SLIDER</div>
-            <div className="topic">ANIMAL</div>
+            <div className="title">MUSIC FESTIVAL</div>
+            <div className="topic">EVOLVING</div>
             <div className="des">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut
               sequi, rem magnam nesciunt minima placeat, itaque eum neque

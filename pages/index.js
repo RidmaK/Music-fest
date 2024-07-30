@@ -9,7 +9,6 @@ import {
   WhatsNew,
   World,
 } from "../sections";
-import "./carousel.js";
 
 const Home = () => (
   <div className="bg-primary-black overflow-hidden">
