@@ -9,10 +9,12 @@ import {
   WhatsNew,
   World,
 } from "../sections";
+import Countdown from "../sections/CountDown";
 
 const Home = () => (
   <div className="bg-primary-black overflow-hidden">
     <Header />
+    <Countdown />
     <Hero />
     <div className="relative">
       <About />

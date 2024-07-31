@@ -2,6 +2,7 @@
 
 import { useEffect } from "react";
 import Image from "next/image";
+import { CountDown } from "../sections";
 
 const Header = () => {
   useEffect(() => {
@@ -63,7 +64,7 @@ const Header = () => {
   }, []);
 
   return (
-    <>
+    <div className="relative">
       <header>
         <nav>
           <a href="">Home</a>
@@ -173,7 +174,10 @@ const Header = () => {
         </div>
         <div className="time"></div>
       </div>
-    </>
+      <div className="countdown absolute top-0 right-0 p-4">
+        <CountDown />
+      </div>
+    </div>
   );
 };
 
