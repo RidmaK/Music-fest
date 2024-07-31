@@ -426,4 +426,13 @@ header a {
   .countdown-section {
     display: none;
   }
+
+  .carousel .list .item .topic {
+    font-size: 3em;
+  }
+
+  .thumbnail .item {
+    width: 100px;
+    height: 170px;
+  }
 }

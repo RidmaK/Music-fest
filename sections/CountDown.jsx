@@ -66,7 +66,7 @@ const Countdown = () => {
                 initial={{ opacity: 0, scale: 0.8 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.5, delay: 0.2 }}
-                className="flex flex-col p-4 bg-neutral rounded-lg text-neutral-content"
+                className="flex flex-col p-0 bg-neutral rounded-lg text-neutral-content"
               >
                 <span className="countdown font-mono text-6xl mb-2">
                   <span style={{ "--value": value }}>{value}</span>

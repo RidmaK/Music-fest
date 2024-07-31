@@ -85,10 +85,7 @@ const Header = () => {
                 EVOLVING redefines the music festival experience, offering a
                 unique investment opportunity. Inspired by globally renowned
                 events like Afterlife, EVOLVING curates an immersive journey
-                that transcends the ordinary. Our carefully selected lineup of
-                international and local artists, combined with cutting-edge
-                production and a breathtaking outdoor setting, creates an
-                unparalleled atmosphere for attendees.
+                that transcends the ordinary.
               </div>
             </div>
           </div>
@@ -141,29 +138,29 @@ const Header = () => {
           <div className="item">
             <img src="/1.jpg" />
             <div className="content">
-              <div className="title">Name Slider</div>
-              <div className="description">Description</div>
+              <div className="title">MUSIC</div>
+              <div className="description">EVOLVING</div>
             </div>
           </div>
           <div className="item">
             <img src="/2.jpg" />
             <div className="content">
-              <div className="title">Name Slider</div>
-              <div className="description">Description</div>
+              <div className="title">Organizing</div>
+              <div className="description">Noiyse</div>
             </div>
           </div>
           <div className="item">
             <img src="/3.jpeg" />
             <div className="content">
-              <div className="title">Name Slider</div>
-              <div className="description">Description</div>
+              <div className="title">Audience</div>
+              <div className="description">3,000</div>
             </div>
           </div>
           <div className="item">
             <img src="/4.jpg" />
             <div className="content">
-              <div className="title">Name Slider</div>
-              <div className="description">Description</div>
+              <div className="title">Location</div>
+              <div className="description">Ibeach</div>
             </div>
           </div>
         </div>
