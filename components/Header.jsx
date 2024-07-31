@@ -174,7 +174,7 @@ const Header = () => {
         </div>
         <div className="time"></div>
       </div>
-      <div className="countdown absolute top-0 right-0 p-4">
+      <div className="countdown-section absolute top-0 right-0 p-4">
         <CountDown />
       </div>
     </div>

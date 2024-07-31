@@ -149,8 +149,9 @@ header a {
   inset: 0 0 0 0;
 }
 
-.countdown {
+.countdown-section {
   color: #fff;
+  display: block;
   overflow: hidden;
 }
 .carousel .list .item img {
@@ -421,5 +422,8 @@ header a {
   }
   .carousel .list .item .content .title {
     font-size: 30px;
+  }
+  .countdown-section {
+    display: none;
   }
 }
